@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>loam</name>
+  <version>0.1.0</version>
+  <description>loam metapackage</description>
+  <maintainer email="wangboxuan@todo.todo">wangboxuan</maintainer>
+  <license>LGPLv3</license>
+
+  <author email="zhangji@cmu.edu">Ji Zhang</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>loam_c16</exec_depend>
+  <exec_depend>loam_back_and_forth</exec_depend>
+  <exec_depend>loam_continuous</exec_depend>
+
+  <export>
+    <metapackage />
+  </export>
+</package>
