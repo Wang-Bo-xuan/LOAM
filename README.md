@@ -9,6 +9,6 @@ clone后直接放入catkin工作区内catkin_make编译即可，如编译不通�
 本作者只负责维护、学习本仓库代码，商业用途请联系原作者Ji Zhang（“zhangji@cmu.edu”）
 
 欢迎各位道友交流指教  
-Tel:18219393274  
-Wechat:wbx779139218  
-QQ:779139218  
+Tel:    13715047518 
+Wechat: wbx779139218  
+QQ:     779139218  
